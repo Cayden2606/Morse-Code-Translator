@@ -3,6 +3,8 @@
 ## Overview
 This project implements a Morse Code Translator using an **Arduino Uno**, a **breadboard**, **wires**, **push buttons**, a **buzzer**, **LED**, and **servo motors**. The translator supports both text-to-Morse and Morse-to-text conversion, providing visual, auditory, and mechanical feedback. The project leverages the **AADFramework** for Arduino component abstraction and control.
 
+![Morse Code Translator](./MorseCodeTranslator.png)
+
 ---
 
 ## Features
